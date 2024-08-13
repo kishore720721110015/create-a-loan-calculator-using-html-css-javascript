@@ -1,0 +1,30 @@
+body {
+    background-color: #efbf76;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+h1 {
+    font-size: 21px;
+    margin-top: 20px;
+}
+
+.calculator {
+   margin-left: 600px;
+   margin-top: 180px;
+   border: 1px solid black;
+   width: fit-content;
+   padding: 40px 70px 40px 70px;
+   border-radius: 10px;
+   background-color: #f4d09c;
+}
+
+input {
+    padding: 7px;
+    width: 70%;
+    margin-top: 7px;
+    display: block;
+    width: 250px;
+}
